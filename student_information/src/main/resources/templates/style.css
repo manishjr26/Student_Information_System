@@ -1,0 +1,68 @@
+/* Styles for common layout */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 20px;
+}
+
+h2 {
+    color: #333;
+}
+
+/* Styles for forms */
+form {
+    margin-top: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+/* Styles for table */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: #4CAF50;
+    color: white;
+}
+
+/* Styles for delete confirmation */
+p {
+    color: #333;
+    margin-top: 20px;
+}
+
+/* Styles for links */
+a {
+    color: #007BFF;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+a:hover {
+    text-decoration: underline;
+}
